@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/.github/assets/readme-logo.png" alt="GoodbyeDPI" height="300px" />
+  <img src="/.github/assets/readme-logo.png" alt="GoodbyeDPI" width="150" height="150" />
 </p>
 
 <h1 align="center">GoodbyeDPI UI</h3>
