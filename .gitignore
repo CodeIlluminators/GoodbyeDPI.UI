@@ -43,6 +43,7 @@ coverage/
 # Package Managers
 .pnp
 .pnp.js
+.yarn/install-state.gz
 
 # WiX
 WixTools
