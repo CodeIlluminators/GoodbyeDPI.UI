@@ -1,0 +1,15 @@
+node_modules
+.husky
+/coverage
+/.yarn/
+/backend/build/
+/frontend/build/
+/frontend/.next/
+/dist/
+/node_modules/
+/stories/
+.prettierignore
+.stylelintignore
+.editorconfig
+.eslintignore
+

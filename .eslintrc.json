@@ -1,0 +1,51 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/strict-type-checked",
+    "plugin:@typescript-eslint/stylistic-type-checked",
+    "next/core-web-vitals"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": ["./tsconfig.json"],
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+
+  },
+  "env": {
+    "es6": true
+  },
+  "plugins": ["@typescript-eslint"],
+  "rules": {
+    "eqeqeq": "off",
+    "no-else-return": "warn",
+    "no-implicit-coercion": ["error", { "disallowTemplateShorthand": true }],
+    "no-unneeded-ternary": "error",
+    "no-useless-call": "error",
+    "no-useless-computed-key": "error",
+    "no-useless-concat": "error",
+    "prefer-arrow-callback": "warn",
+    "prefer-const": "error",
+    "prefer-rest-params": "error",
+    "prefer-spread": "error",
+    "prefer-template": "error",
+    "radix": ["error", "always"],
+    "react-hooks/exhaustive-deps": "error",
+    "@typescript-eslint/no-base-to-string": "off",
+    "@typescript-eslint/no-misused-promises": ["error", {
+      "checksVoidReturn": false
+    }],
+    '@typescript-eslint/no-unsafe-call': 'off',
+    "@typescript-eslint/no-empty-interface": "off",
+    '@typescript-eslint/no-unsafe-assignment': 'off',
+    "@typescript-eslint/no-floating-promises": "off",
+    "@typescript-eslint/no-empty-object-type": "off",
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "@typescript-eslint/no-unsafe-member-access": "off",
+    "@typescript-eslint/no-unnecessary-condition": "off",
+    "@typescript-eslint/prefer-nullish-coalescing": "off",
+    "@typescript-eslint/consistent-type-assertions": "off",
+    "@typescript-eslint/strict-boolean-expressions": "off",
+    "@typescript-eslint/no-confusing-void-expression": "off"
+  }
+}
