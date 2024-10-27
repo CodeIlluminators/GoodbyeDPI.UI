@@ -1,7 +1,8 @@
-<h3 align="center">
-	<img src="/.github/assets/readme-logo" alt="GoodbyeDPI" height="300px" /><br/>
-	「GoodbyeDPI UI」
-</h3>
+<p align="center">
+        <img src="/.github/assets/readme-logo.png" alt="GoodbyeDPI" height="300px" />
+</p>
+
+<h1 align="center">GoodbyeDPI UI</h3>
 
 <p align="center">
 	<a href="https://github.com/Storik4pro/GoodbyeDPI-UI/stargazers">
@@ -12,23 +13,25 @@
   	<img alt="Releases" src="https://img.shields.io/github/release/Storik4pro/GoodbyeDPI-UI?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/></a>
 </p>
 
-Добро пожаловать в GoodbyeDPI UI! Это удобный пользовательский интерфейс для проектов [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI), [Zapret](https://github.com/bol-van/zapret), [ByeDPI](https://github.com/hufrea/byedpi) и [SpoofDPI](https://github.com/xvzc/SpoofDPI)
+<p align="center">
+  Добро пожаловать в GoodbyeDPI UI! Это пользовательский интерфейс для проектов <a target="_blank" href="https://github.com/ValdikSS/GoodbyeDPI">GoodbyeDPI</a>, <a target="_blank" href="https://github.com/bol-van/zapret">Zapret</a>, <a target="_blank" href="https://github.com/hufrea/byedpi">ByeDPI</a> и <a target="_blank" href="https://github.com/xvzc/SpoofDPI">SpoofDPI</a>.
+</p>
 
-## Описание
+## ✨ Описание
 
 GoodbyeDPI UI предоставляет удобный графический интерфейс для управления GoodbyeDPI, Zapret, ByeDPI и SpoofDPI. С его помощью вы можете легко изменять настройки DPI и запускать приложение в трее.
 
 ## 🪄 Установка
 
 > [!IMPORTANT]
-> Руководство по установке теперь находиться на [сайте GoodbyeDPI UI](https://storik4pro.github.io/)
+> Руководство по установке теперь находиться на [сайте GoodbyeDPI UI](https://goodbyedpi-ui.vercel.app/)
 
 ### ⚙️ Требования
 
 - Windows 10 64bit build 15063 или выше
 
 >[!IMPORTANT]
->На Windows 10 версии младше 1809 функция "Просмотр вывода GoodbyeDPI" не работает
+>На Windows 10 версии младше 1809 функция "Просмотр вывода GoodbyeDPI" не работает 
 
 ### 📍 Шаги установки
 
@@ -40,19 +43,16 @@ GoodbyeDPI UI предоставляет удобный графический �
 6. Поздравляем! Вы завершили установку!
 
 ## 💡 Использование
-
 1. Запустите приложение.
 2. Выберите движок (GoodbyeDPI, Zapret, SpoofDPI или ByeDPI)
 3. Выберите регион и настройки DNS.
 4. Нажмите кнопку для запуска или остановки процесса.
 5. Сверните приложение в системный трей
 
-<div align="center" style="display: grid;grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 1.16em 1.16em; grid-template-areas: ". ." ". .";">
-  <img alt="Main Window" src="https://github.com/user-attachments/assets/3145f2a0-22fd-4b5b-a00e-b54901d2870a" />
-  <img alt="Settings" src="https://github.com/user-attachments/assets/fb73530d-b20c-4221-88da-595cfc6a6f3f" />
-  <img alt="Information terminal on running processes" src="https://github.com/user-attachments/assets/5d7905d7-6e18-4c1f-8e26-4808da1b5e05" />
-  <img alt="Network configuration utility" src="https://github.com/user-attachments/assets/e4f243c2-a42c-4f2a-899f-4e1a954aab6a" />
-</div>
+![image](https://github.com/user-attachments/assets/3145f2a0-22fd-4b5b-a00e-b54901d2870a)
+![image](https://github.com/user-attachments/assets/fb73530d-b20c-4221-88da-595cfc6a6f3f)
+![image](https://github.com/user-attachments/assets/5d7905d7-6e18-4c1f-8e26-4808da1b5e05)
+![image](https://github.com/user-attachments/assets/e4f243c2-a42c-4f2a-899f-4e1a954aab6a)
 
 ## 🚀 Автозапуск
 
